@@ -1,0 +1,10 @@
+*.pcapng.gz
+*.ova
+*.vdi
+*.vmdk
+.DS_Store
+Thumbs.db
+secrets/
+*.key
+*.pem
+.env
